@@ -65,3 +65,8 @@ Berikut adalah beberapa fitur terkini yang dimiliki GoMealSaver:
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [framer-motion](https://motion.dev/)
 - [typed.js](https://mattboldt.com/demos/typed-js/)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
