@@ -16,6 +16,7 @@
 
 ### Latar Belakang:
 Latar belakang dari proyek ini berangkat dari tingginya tingkat food wasteglobal yang mencapai 931 juta ton setiap tahunnya, padahal sebagian besarmakanan tersebut masih bisa dikonsumsi. Penjual seringkali tidak memiliki saluranuntuk menjual makanan sisa mereka, sementara banyak konsumen yangsebenarnya berminat untuk membelinya dengan harga lebih murah. Kami memilihproyek ini karena percaya bahwa platform digital dapat menjadi solusi untukmasalah food waste dengan menghubungkan konsumen dan penjual secaralangsung.
+
 Website ini diharapkan dapat menjadi "painkiller" dengan memberikanmanfaat nyata kepada para penjual dalam mengurangi food waste sekaligusmemberikan keuntungan finansial dan lingkungan. Bagi konsumen, platform inimenawarkan akses ke makanan yang lebih terjangkau, sehingga dapatberkontribusi dalam mengurangi dampak food waste secara kolektif. Kamimengadopsi metode design thinking untuk memastikan bahwa platform iniberorientasi pada kebutuhan pengguna dan memberikan dampak yang maksimal.
 
 ## Fitur Pada GoMealSaver
