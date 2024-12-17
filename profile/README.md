@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-    <img  src="./image.png">
+    <img  src="./imagess.png">
 </p>
 
 # Capstone Project Dicoding X Kampus Merdeka Batch 7
