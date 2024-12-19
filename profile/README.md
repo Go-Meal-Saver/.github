@@ -68,6 +68,12 @@ Berikut adalah beberapa fitur terkini yang dimiliki GoMealSaver:
 - [typed.js](https://mattboldt.com/demos/typed-js/)
 
 
+## Deployment
+ 
+- [GoMealSaver](https://gomealsaver.store)
+
+
+
 ## Cara Installasi di Local
 
 - Git
