@@ -89,7 +89,7 @@ Installation
 Instal dependensi proyek menggunakan npm:
 
 ```bash
-npm run dev
+npm i
 ```
 
 Set Up Environment Variables
