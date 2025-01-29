@@ -135,17 +135,7 @@ Menjalankan Proyek
 npm run dev
 ```
 
-Buka http://localhost:3000 di browser Anda untuk melihat proyek
-
-## Team Members
-
-| ![Harsena Argretya](https://via.placeholder.com/100) | ![Muhamad Akbar Algifahri](https://via.placeholder.com/100) | ![Dody Pramansyah Sianipar](https://via.placeholder.com/100) | ![Abigael Haidar Cyayyidina Avianto](https://via.placeholder.com/100) |
-|-----------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
-| **Harsena Argretya**                                | **Muhamad Akbar Algifahri**                              | **Dody Pramansyah Sianipar**                                | **Abigael Haidar Cyayyidina Avianto**                             |
-| SIB Front-End and Back-End Developer Cycle 7 at Dicoding Indonesia | SIB Front-End and Back-End Developer Cycle 7 at Dicoding Indonesia | SIB Front-End and Back-End Developer Cycle 7 at Dicoding Indonesia | SIB Front-End and Back-End Developer Cycle 7 at Dicoding Indonesia |
-| [Instagram](https://www.instagram.com/argretya)     | [Instagram](https://www.instagram.com/akbar.algifahri)   | [Instagram](https://www.instagram.com/dody.sianipar04)      | [Instagram](https://www.instagram.com/abigael_haidar/profilecard/?igsh=eTdzMzl4MG1zbGxp) |
-| [LinkedIn](https://www.linkedin.com/in/harsenaargretya/) | [LinkedIn](https://www.linkedin.com/in/akbaralgifahri)   | [LinkedIn](http://www.linkedin.com/in/dody-pramansyah-sianipar) | [LinkedIn](https://www.linkedin.com/in/abigael-haidar-29639a147/) |
-| [GitHub](https://github.com/Anezz12)                | [GitHub](https://github.com/Bareeezanra)                | [GitHub](https://github.com/Dodayyy)                        | [GitHub](https://github.com/abigaelhaidar)                        |
+Buka http://localhost:3000 di browser Anda untuk melihat proyek                     |
 
 
 
